@@ -1,0 +1,33 @@
+The robo was build using:
+
+1) 1x Robot chassis Hawk01
+
+2) 1x Arduino UNO R3(China)
+
+3) 1x L293D dual DC Motor controller
+
+4) 1x Directional wheel
+
+5) 1x Battery pack(Two batteries + Power jack)
+
+6) 5x Male to male Jumper wire-single
+
+7) 20x Male to Female Jumper wire-single
+
+8) 2x Yellow Rubber Tube
+
+9) 2x DC gear motors 
+
+10) 4x T-shaped motor support
+
+12) 1x USB A to B cable
+
+13) 2x IR Sensors
+
+16) 28x Screw M3x0.5, Length 5.5mm
+
+17) 14x Hexa spacer
+
+18) 4x Screw M3x0.5 Length 30mm, with Nut
+
+19) 1x on/off switch
