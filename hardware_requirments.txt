@@ -8,11 +8,11 @@ The robo was build using:
 
 4) 1x Directional wheel
 
-5) 1x Battery pack(Two batteries + Power jack)
+5) 1x Battery (+ Power jack)
 
-6) 5x Male to male Jumper wire-single
+6) Male to male Jumper wires
 
-7) 20x Male to Female Jumper wire-single
+7) Male to Female Jumper wires
 
 8) 2x Yellow Rubber Tube
 
